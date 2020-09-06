@@ -15,6 +15,7 @@ namespace SumOfDigits
                 n /= 10;
             }
             Console.WriteLine("The sum of the digits you entered is: " + sum);
+            Console.WriteLine("I am the second collaborator contributing to this repo");
         }
     }
 }
