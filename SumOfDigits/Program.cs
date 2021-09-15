@@ -9,6 +9,8 @@ namespace SumOfDigits
             Console.Write("Input  a number(integer): ");
             int n = Convert.ToInt32(Console.ReadLine());
             int sum = 0;
+            //hello
+            //there
             while (n != 0)
             {
                 sum += n % 10;
